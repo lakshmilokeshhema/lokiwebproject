@@ -79,12 +79,12 @@
       <snapshotRepository>
         	<id>nexus</id>
         	<name>devops</name>
-		<url>http://localhost:8081/repository/bond/</url>
+		<url>http://localhost:8081/repository/uday/</url>
       </snapshotRepository>
       <repository>
     	        <id>nexus</id>
         	<name>devops</name>
-		<url>http://localhost:8081/repository/bond/</url>
+		<url>http://localhost:8081/repository/uday/</url>
       </repository>
 	
    </distributionManagement>
