@@ -6,7 +6,7 @@
 
   <groupId>com.loki</groupId>
   <artifactId>lokiwebproject</artifactId>
-  <version>1.4</version>
+  <version>1.4-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>lokiwebproject Maven Webapp</name>
